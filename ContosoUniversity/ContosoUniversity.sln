@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity.csproj", "{63D9498D-8B22-4741-A5FC-42EF716305E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity.csproj", "{E855EC67-1A9A-44FB-9975-DCCD1FF1979A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{63D9498D-8B22-4741-A5FC-42EF716305E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{63D9498D-8B22-4741-A5FC-42EF716305E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{63D9498D-8B22-4741-A5FC-42EF716305E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{63D9498D-8B22-4741-A5FC-42EF716305E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E855EC67-1A9A-44FB-9975-DCCD1FF1979A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E855EC67-1A9A-44FB-9975-DCCD1FF1979A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E855EC67-1A9A-44FB-9975-DCCD1FF1979A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E855EC67-1A9A-44FB-9975-DCCD1FF1979A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B873BBBD-8502-432B-A326-580491B4EC51}
+		SolutionGuid = {6E16D4D2-0D6F-42A9-9C2A-1ACAD882A219}
 	EndGlobalSection
 EndGlobal
